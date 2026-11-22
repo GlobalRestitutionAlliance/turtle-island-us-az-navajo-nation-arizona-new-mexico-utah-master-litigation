@@ -1,12 +1,13 @@
 {
   "url": "https://www.loc.gov/law/help/american-indian-consts/",
   "final_url": "https://www.loc.gov/collections/native-american-constitutions-and-legal-materials/",
-  "status": 200,
   "title": "Native American Constitutions and Legal Materials | The Library of Congress",
   "bytes": 80000,
   "sha256": "aec029e5ea9e4df858aeaf3d19e76b83692bed7533da85d7f8603b463ef81ce9",
   "captured_at": "2026-11-22T20:41:18.417185Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }

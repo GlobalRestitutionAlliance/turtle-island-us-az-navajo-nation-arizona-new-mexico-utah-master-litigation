@@ -1,12 +1,13 @@
 {
   "url": "https://chroniclingamerica.loc.gov/",
   "final_url": "https://www.loc.gov/collections/chronicling-america/",
-  "status": 200,
   "title": "Chronicling America | The Library of Congress",
   "bytes": 80000,
   "sha256": "78c9d0e9d9e7386238a74b4f55dcf17699595ff257093801b73a6b5ac0674e39",
   "captured_at": "2026-11-22T20:42:10.472319Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }

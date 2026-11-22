@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://www.bia.gov/regional-offices/navajo | `03_Evidentiary_Exhibits/Immutable_Ledger/BIA_-_Navajo_Region.html` | `421bfedd7cb0f606...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.bia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Bureau_of_Indian_Affairs.html` | `68cdf10207d9c84b...` | PENDING_LEGAL_REVIEW
