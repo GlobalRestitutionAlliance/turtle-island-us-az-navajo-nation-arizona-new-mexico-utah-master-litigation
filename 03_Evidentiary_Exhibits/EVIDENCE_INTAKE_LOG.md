@@ -26,6 +26,17 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-22 | Library of Congress - Indigenous Law | https://www.loc.gov/law/help/american-indian-consts/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN OHCHR Indigenous Peoples | https://www.ohchr.org/en/indigenous-peoples | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | BIA_-_Navajo_Region.html | https://www.bia.gov/regional-offices/navajo | OpenCode/harvest | 421bfedd7cb0f60605efe0c9a93a86dc1b116f266b9bd80258fc4b526ef3189c | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=46749 |
+| 2026-11-22 | US_EPA_-_Navajo_Nation_uranium.html | https://www.epa.gov/navajo-nation-uranium-cleanup | OpenCode/harvest | 83e4b6867b8e076e03cfc6665704e02b0ae9fbc111aef9b20e9fbf6142daa922 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=69595 |
+| 2026-11-22 | US_Courts_-_Navajo_Nation_water_rights_public_.html | https://www.justice.gov/enrd/indian-resources-section | OpenCode/harvest | b36612301c07ea68f4b5f885fc2a142251d44774ab671587fdb05aca55a74fdc | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=94188 |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.

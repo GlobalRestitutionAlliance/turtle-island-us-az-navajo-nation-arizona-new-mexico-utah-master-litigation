@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [National Archives - Native American Records](https://www.archives.gov/research/native-americans)
 - [Bureau of Indian Affairs](https://www.bia.gov/)
 - [Library of Congress - Indigenous Law](https://www.loc.gov/law/help/american-indian-consts/)
@@ -20,3 +19,6 @@
 - [WorldCat](https://search.worldcat.org/)
 - [Wikisource](https://en.wikisource.org/)
 - [US Govt Publishing Office](https://www.govinfo.gov/)
+- [BIA - Navajo Region](https://www.bia.gov/regional-offices/navajo)
+- [US EPA - Navajo Nation uranium](https://www.epa.gov/navajo-nation-uranium-cleanup)
+- [US Courts - Navajo Nation water rights (public)](https://www.justice.gov/enrd/indian-resources-section)
