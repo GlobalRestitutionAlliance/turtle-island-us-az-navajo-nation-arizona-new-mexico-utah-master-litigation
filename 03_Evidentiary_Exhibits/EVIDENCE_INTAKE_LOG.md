@@ -37,6 +37,14 @@
 | 2026-11-22 | US_EPA_-_Navajo_Nation_uranium.html | https://www.epa.gov/navajo-nation-uranium-cleanup | OpenCode/harvest | 83e4b6867b8e076e03cfc6665704e02b0ae9fbc111aef9b20e9fbf6142daa922 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=69595 |
 | 2026-11-22 | US_Courts_-_Navajo_Nation_water_rights_public_.html | https://www.justice.gov/enrd/indian-resources-section | OpenCode/harvest | b36612301c07ea68f4b5f885fc2a142251d44774ab671587fdb05aca55a74fdc | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=94188 |
 
+| 2026-11-22 | Chronicling_America_LOC_Newspapers__browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 78c9d0e9d9e7386238a74b4f55dcf17699595ff257093801b73a6b5ac0674e39 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback status=200 bytes=80000 final_url=https://www.loc.gov/collections/chronicling-america/ |
+| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://www.hathitrust.org/ | OpenCode/browser-fallback | b9ea071ac4221f523101c3560bdbf6d4f91b76cb611da677c4d92b179ca61fc3 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback status=200 bytes=80039 final_url=https://www.hathitrust.org/ |
+| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | 8ee4ffb79b8eefc58258bf8b402995db574c260afd81290234dca8b0a03ab25d | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback status=200 bytes=80029 final_url=https://www.justia.com/ |
+| 2026-11-22 | Library_of_Congress_-_Indigenous_Law_browser.html | https://www.loc.gov/law/help/american-indian-consts/ | OpenCode/browser-fallback | aec029e5ea9e4df858aeaf3d19e76b83692bed7533da85d7f8603b463ef81ce9 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback status=200 bytes=80000 final_url=https://www.loc.gov/collections/native-american-constitutions-and-legal-materials/ |
+| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | 630526479d94fee99f80654e69d584582c8107033e4970c01e84c70583c37989 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback status=200 bytes=26733 final_url=https://digitallibrary.un.org/ |
+| 2026-11-22 | UN_OHCHR_browser.html | https://www.ohchr.org/ | OpenCode/browser-fallback | 30e49019679928e28b334130c5eeade038dad52bd1101f45c32b6b4025f384b6 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback status=200 bytes=80021 final_url=https://www.ohchr.org/en/ohchr_homepage |
+| 2026-11-22 | UN_OHCHR_Indigenous_Peoples_browser.html | https://www.ohchr.org/en/indigenous-peoples | OpenCode/browser-fallback | 30a7086640c2e859b6990aa1a59e78f9028c38f409584296d37e7991b33deb9f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback status=200 bytes=80020 final_url=https://www.ohchr.org/en/indigenous-peoples |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.
