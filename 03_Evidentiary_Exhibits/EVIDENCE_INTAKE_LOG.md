@@ -49,7 +49,7 @@
 
 | 2026-11-22 | HathiTrust_Digital_Library_73a05a74_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 73a05a74d44525ffffe44536b599d506d33eaedd322bc48eb1f115e8ae96f66f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
 
-| 2026-11-22 | Library_of_Congress_-_Navajo_browser.html | https://www.loc.gov/item/?q=navajo+nation+land | OpenCode/browser-fallback | 70e78838c7cefe0be1b03cb3b4d471f820e9a2af18303c39bd39952624fb3a98 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=navajo+nation+land |
+| 2026-11-22 | Library_of_Congress_-_Navajo_browser.html | https://www.loc.gov/item/?q=navajo+nation+land | OpenCode/browser-fallback | 70e78838c7cefe0be1b03cb3b4d471f820e9a2af18303c39bd39952624fb3a98 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=navajo+nation+land | | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
 
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
