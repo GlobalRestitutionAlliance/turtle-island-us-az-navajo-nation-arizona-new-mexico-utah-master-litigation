@@ -15,5 +15,7 @@
   "capture_method": "opencode-browse-extension+eval.outerHTML",
   "content_status": "NOT_FOUND_404",
   "capture_quality": "FAILED_CONTENT_NOT_SUBSTANTIVE",
-  "evidence_usability": "NOT_SUBSTANTIVE_404_PENDING_RECAPTURE"
+  "evidence_usability": "NOT_SUBSTANTIVE_404_PENDING_RECAPTURE",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
 }
