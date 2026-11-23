@@ -1,0 +1,11 @@
+source_id,title,url,source_type,access_method,verification_status,notes
+SRC-0001,Navajo Nation government,https://www.navajo-nsn.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0002,Bureau of Indian Affairs,https://www.bia.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0003,National Archives - American Indians,https://www.archives.gov/research/native-americans,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0004,Library of Congress - Navajo,https://www.loc.gov/item/?q=navajo+nation+land,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0005,HathiTrust Digital Library,https://babel.hathitrust.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0006,Chronicling America LOC,https://chroniclingamerica.loc.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0007,US EPA - Navajo Nation uranium contamination,https://www.epa.gov/navajo-nation-uranium-cleanup,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0008,DOI Indian Affairs - land records,https://www.bia.gov/regional-offices/navajo,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0009,Justia,https://www.justia.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0010,CourtListener,https://www.courtlistener.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.

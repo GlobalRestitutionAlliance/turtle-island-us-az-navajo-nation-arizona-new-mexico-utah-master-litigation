@@ -24,3 +24,6 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0020: https://history.state.gov/historicaldocuments | `03_Evidentiary_Exhibits/Immutable_Ledger/US_State_Dept_FRUS.html` | `c948fdff783f2e5f...` | PENDING_LEGAL_REVIEW
 - CIT-0021: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0022: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `ab8a6c30f2803f77...` | PENDING_LEGAL_REVIEW
+- CIT-0023: https://www.navajo-nsn.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Navajo_Nation_government.html` | `af09cdef1e1eb734...` | PENDING_LEGAL_REVIEW
+- CIT-0024: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
+- CIT-0025: https://www.loc.gov/item/?q=navajo+nation+land | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Navajo_browser.html` | `68651c8673a19927...` | PENDING_LEGAL_REVIEW

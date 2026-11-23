@@ -1,0 +1,16 @@
+{
+  "url": "https://www.loc.gov/item/?q=navajo+nation+land",
+  "final_url": "https://www.loc.gov/item/?q=navajo+nation+land",
+  "title": "Library of Congress - Navajo",
+  "fetched_at": "2026-11-23T00:45:41.093499Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60000,
+  "sha256": "70e78838c7cefe0be1b03cb3b4d471f820e9a2af18303c39bd39952624fb3a98",
+  "provenance": "browser-rendered-outerHTML",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML"
+}

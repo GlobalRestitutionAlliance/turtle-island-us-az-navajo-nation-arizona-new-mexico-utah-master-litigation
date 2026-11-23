@@ -45,6 +45,12 @@
 | 2026-11-22 | UN_OHCHR_browser.html | https://www.ohchr.org/ | OpenCode/browser-fallback | 30e49019679928e28b334130c5eeade038dad52bd1101f45c32b6b4025f384b6 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=80021 final_url=https://www.ohchr.org/en/ohchr_homepage |
 | 2026-11-22 | UN_OHCHR_Indigenous_Peoples_browser.html | https://www.ohchr.org/en/indigenous-peoples | OpenCode/browser-fallback | 30a7086640c2e859b6990aa1a59e78f9028c38f409584296d37e7991b33deb9f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=80020 final_url=https://www.ohchr.org/en/indigenous-peoples |
 
+| 2026-11-22 | Navajo_Nation_government.html | https://www.navajo-nsn.gov/ | OpenCode/harvest | af09cdef1e1eb73438aab9f6f9ee8ca06130c3fc1db7f9a34daff4eae9483bbe | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=124930 final_url=https://www.navajo-nsn.gov/ |
+
+| 2026-11-22 | HathiTrust_Digital_Library_73a05a74_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 73a05a74d44525ffffe44536b599d506d33eaedd322bc48eb1f115e8ae96f66f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | Library_of_Congress_-_Navajo_browser.html | https://www.loc.gov/item/?q=navajo+nation+land | OpenCode/browser-fallback | 70e78838c7cefe0be1b03cb3b4d471f820e9a2af18303c39bd39952624fb3a98 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=navajo+nation+land |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.
