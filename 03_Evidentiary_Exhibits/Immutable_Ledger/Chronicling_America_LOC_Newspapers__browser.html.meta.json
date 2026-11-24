@@ -9,10 +9,5 @@
   "provenance": "browser-rendered-outerHTML",
   "batch": "pilot-browser-fallback",
   "http_status": "unknown_browser_outerhtml_capture",
-  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified.",
-  "fetched_at": "2026-11-22T20:42:10.472319Z",
-  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
-  "legal_review_status": "PENDING_LEGAL_REVIEW",
-  "substantive": true,
-  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }
